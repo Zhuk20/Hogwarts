@@ -1,6 +1,6 @@
 import java.util.Objects;
 
-public class Hogwarts {
+public abstract class Hogwarts {
     private String name;
     private int magic;
     private int transgression;
